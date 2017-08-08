@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.4.0)
+  - CarbonKit (2.1.9)
+  - Kingfisher (3.10.1)
+  - RappleProgressHUD (2.3.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - CarbonKit
+  - Kingfisher
+  - RappleProgressHUD
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  CarbonKit: af16a9c0d2b6c908a5985fe4633424d38c9bfc0a
+  Kingfisher: 33a1b82140fcb14a9fc13f78dfde2a03ff8de8cb
+  RappleProgressHUD: d29a931f7e867e9d9c3b88831f62e8366976eb41
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 5d808c93f8005470d8733e11b273726c5e09b4dd
+
+COCOAPODS: 1.2.1
